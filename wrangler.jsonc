@@ -1,0 +1,5 @@
+{
+  "name": "proctor-game",
+  "compatibility_date": "2024-11-01",
+  "assets": { "directory": "./proctor-game-pages" }
+}
